@@ -7,9 +7,11 @@ This is a **template** repository.
 Targeted toward Digilent Basys3. Make sure to install the [board files](https://github.com/Xilinx/XilinxBoardStore/tree/2018.2/boards/Digilent/basys3).
 
 Tested on Vivado 2024.2
-
+![description of my waveform](wave.png)
+![description of my entity](draw.png)
 ---
-
+#documentation
+in completing this assignment i looked back at my previous vhdl code from this class i used no other outside help or resources.
 ## GitHub Actions Testbench
 
 The workflow uses the [setup-ghdl-ci](https://github.com/ghdl/setup-ghdl-ci) GitHub action
